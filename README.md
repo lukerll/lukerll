@@ -4,3 +4,5 @@
 - 📊 Data Analyst
 - 🔍 Machine Learning, Model Validation & Time Series
 - 💼 Former T-Bank intern
+
+**Tools:** Python · SQL
